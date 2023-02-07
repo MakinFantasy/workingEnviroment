@@ -1,1 +1,1 @@
-![CI](https://github.com/<makinfantasy>/<workingEnvironment>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/MakinFantasy/workingEnvironment/actions/workflows/web.yml/badge.svg)
